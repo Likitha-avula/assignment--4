@@ -1,0 +1,34 @@
+.first {
+    position: fixed;
+    left: 800px;
+    top: 100px;
+    -webkit-transform: rotate(30deg);
+}
+
+.second {
+    position: fixed;
+    left: 600px;
+    top: 100px;
+    -webkit-transform: rotate(60deg);
+}
+
+.third {
+    position: fixed;
+    left: 400px;
+    top: 100px;
+    -webkit-transform: rotate(30deg);
+}
+
+.four {
+    position: fixed;
+    left: 300px;
+    top: 100px;
+    -webkit-transform: rotate(30deg);
+}
+
+.five {
+    position: fixed;
+    left: 100px;
+    top: 100px;
+    -webkit-transform: rotate(60deg);
+}
