@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Font;
+    src: url(Admiration\ Pains.ttf);
+}
+
+@font-face {
+    font-family: secondFont;
+    src: url(WarWound.otf);
+}
+
+@font-face {
+    font-family: thirdFont;
+    src: url(AdmirationPains.woff);
+}
+
+.TTF {
+    font-family: Font;
+}
+
+.OTF {
+    font-family: secondFont;
+}
+
+.WOFF {
+    font-family: thirdFont;
+}
